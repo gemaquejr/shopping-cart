@@ -1,9 +1,10 @@
 const fetchProducts = (product) => {
-  const url = `https://api.mercadolibre.com/sites/MLB/search?q=${product}`;
-  return fetch(url)
+  const promise = fetch(`https://api.mercadolibre.com/sites/MLB/search?q=${product}`)
   .then((data) => data.json())
   .then((data) => data)
   .catch((error) => error);
+
+  return promise;
 };
 
 if (typeof module !== 'undefined') {
