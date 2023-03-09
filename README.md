@@ -1,13 +1,25 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Shopping Cart
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Oitavo projeto desenvolvido no módulo de Fundamentos do Curso de Desenvolvimento Web da Trybe.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Template de uma aplicação e-commerce, simulando compras e adicionando em um carrinho de compras dinâmico.
+
+O projeto consistia em exercitar as habilidades de utilização da função fetch para consumir dados de uma API do mercado livre e também foi trabalhado o conceito de JavaScript síncrono e assíncrono.
+
+## 🚀 Tecnologia
+
+- ⚡ JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.
+
+## ✋🏻 Pré-requisitos
+
+- [git](https://git-scm.com/downloads): Ferramenta para gerenciar o código-fonte
+
+- [Visual Studio Code](https://code.visualstudio.com/): Editor de Código Fonte
+
+## :hammer_and_wrench: Antes de iniciar o projeto.
+
+No diretório do projeto, instale as dependências e inicialize o projeto:
+
+### `npm install`
+
+Instala as dependências.
